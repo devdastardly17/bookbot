@@ -19,7 +19,6 @@ def get_character_count(book_text):
     return character_count
 
 def print_report(character_count,word_count,) :
-    pass
     print("--- Begin report of books/frankenstein.txt ---")
     print(f"{word_count} words found in the document")
     print("")
